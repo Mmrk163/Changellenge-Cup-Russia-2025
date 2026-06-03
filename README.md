@@ -1,10 +1,15 @@
 # Case Portfolio
 
-В репозитории представлены проекты, выполненные в рамках кейс-чемпионатов Changellenge Cup Russia. Работы охватывают направления стратегического консалтинга, маркетинговой аналитики, продуктового менеджмента и финансового моделирования.
+В репозитории представлены кейсы, выполненные в рамках кейс-чемпионатов **Changellenge Cup Russia 2025.**
+
+1. Секция ВТБ - первый этап
+2. Секция PepsiCo - полуфинал
+
+По результатам 1 этапа наша команда прошла в полуфинал, по результатам которого заняла 6-е место(в секции PespsiCo).
 
 ---
 
-# VTB — Referral Program for SME Clients
+# 1.VTB — Referral Program for SME Clients
 
 ## Project Overview
 
@@ -62,7 +67,7 @@
 
 ---
 
-# PepsiCo — Cashback Strategy for Lay’s, Adrenaline Rush & Агуша
+# 2.PepsiCo — Cashback Strategy for Lay’s, Adrenaline Rush & Агуша
 
 ## Project Overview
 
