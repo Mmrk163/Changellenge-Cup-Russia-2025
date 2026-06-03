@@ -51,16 +51,6 @@
 - оценка влияния на клиентскую базу;
 - анализ 24 потенциальных рисков и мероприятия по их снижению.
 
-## Key Methods & Tools
-
-- Market Research
-- Customer Development
-- Benchmark Analysis
-- Business Strategy
-- Financial Modeling
-- Risk Assessment
-- Customer Journey Analysis
-
 ## Project Results
 
 В результате была разработана комплексная реферальная программа для сегмента МСБ, включающая финансовую модель, маркетинговую стратегию, механизмы защиты от мошенничества и дорожную карту внедрения.
@@ -142,17 +132,6 @@
 - выявлено 34 риска;
 - построена матрица вероятность × влияние;
 - разработаны меры по снижению рисков для каждой инициативы.
-
-## Key Methods & Tools
-
-- Market Research
-- Consumer Segmentation
-- Benchmarking
-- Loyalty Program Design
-- Gamification Design
-- Financial Modeling
-- ROI Analysis
-- Risk Management
 
 ## Project Results
 
